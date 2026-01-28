@@ -23,6 +23,14 @@
 <p>Javascriptライブラリを利用したカレンダー（予定表）の実装<br>
 作品URl:https://cat8929.github.io/</p>
 
+<p>仕様</p>
+<ul>
+    <li>予定表として閲覧のみが可能</li>
+    <li>予定登録はAPI（外部プログラム）やGoogleカレンダー連携を想定</li>
+    <li>月毎、週毎、日毎の表示の切り替え可能</li>
+    <li>祝日は自動で参照する</li>
+</ul>
+
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
 ## 環境
