@@ -21,7 +21,7 @@
 ## ポートフォリオについて
 
 <p>Javascriptライブラリを利用したカレンダー（予定表）の実装<br>
-作品URl:[https://cat8929.github.io/](https://cat8929.github.io/calendar/)</p>
+作品URl:[https://cat8929.github.io/calendar/]</p>
 
 <p>仕様</p>
 <ul>
